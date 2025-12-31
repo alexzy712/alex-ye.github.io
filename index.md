@@ -15,6 +15,7 @@
 
 ## CAD Design
 ![Sketch in CATIA used to design I-beam](images/SAMPE_CATIA_I-beam_sketch.png)
+*Sketch in CATIA used to design I-beam
 
 ## Results -
   - Manufactured working I-beam and square beam composite bridge elements.
