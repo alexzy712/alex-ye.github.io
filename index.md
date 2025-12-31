@@ -4,7 +4,7 @@
   January - April 2025
 
 ## Project Overview - 
-  I worked with a team to design and construct various composite bridge elements. We started with CATIA models we designed of different beam types, and generated a structural analysis for each one. Using this information, we manufactured and performed a three-point bend test for each part.
+  I worked with a team to design and construct various composite bridge elements. We started with CATIA models we designed of different beam types, and generated a flexural analysis for each one. Using this information, we manufactured and performed a three-point bend test for each part.
 
 ## Objectives -
   - To design industry-grade composite bridge beams able to withstand the requirements specified by the SAMPE Student Bridge Contest.
