@@ -5,13 +5,16 @@
 
 ## Project Overview - 
   I worked with a team to design and construct various composite bridge elements. We started with CATIA models we designed of different beam types, and generated a structural analysis for each one. Using this information, we manufactured and performed a three-point bend test for each part.
-  
-## Personal Role - 
-  I was tasked with the design of the CATIA models for each beam type. The CAD models served as the basis for the flexural analysis, enabling iterative refinement of geometry prior to composite fabrication.
 
 ## Objectives -
   - To design industry-grade composite bridge beams able to withstand the requirements specified by the SAMPE Student Bridge Contest.
   - Prove the workability and the feasibility of cost-effective and easily manufacturable composite bridge elements.
+
+## Personal Role - 
+  I was tasked with the design of the CATIA models for each beam type. The CAD models served as the basis for the flexural analysis, enabling iterative refinement of geometry prior to composite fabrication.
+
+## CAD Design
+![CATIA Sketch Used to Design the I-beam CAD Model]
 
 ## Results -
   - Manufactured working I-beam and square beam composite bridge elements.
