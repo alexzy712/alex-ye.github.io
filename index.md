@@ -18,7 +18,8 @@
 Sketch in CATIA Used to Design I-beam
 
 ## Flexural Analysis
-![Flexural Analysis of Various Beam Designs](images/)
+![Flexural Analysis of Various Beam Designs](images/flexural-analysis.png)
+
 Flexural Analysis of Various Beam Designs
 
 ## Results -
